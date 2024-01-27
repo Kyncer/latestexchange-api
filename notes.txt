@@ -1,0 +1,9 @@
+https://app.exchangerate-api.com/dashboard
+
+
+Your API Key: bdf2aab84b44b881f0db0249
+Example Request: https://v6.exchangerate-api.com/v6/bdf2aab84b44b881f0db0249/latest/USD
+
+
+sy.kynce@gmail.com
+333123521
